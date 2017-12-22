@@ -10,3 +10,14 @@ tathan,lecteur
 marcel,joinville
 marcel,dede
 marcel,joinville
+marcel,dede
+dede,marcel
+marcel,dede
+fils_marcel,marcel
+marcel,fils_marcel
+marcel,joinville
+joinville,marcel
+femme_marcel,joinville
+femme_marcel,marcel
+joinville,marcel
+joinville,marcel
