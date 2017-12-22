@@ -34,4 +34,13 @@ dede,marcel
 marcel,chien_marcel
 marcel,chien_marcel
 chien_marcel,lecteur
-
+fils_dede,dede
+dede,fils_dede
+fils_tathan,tathan
+tathan,fils_tathan
+joinville,fille_joinville
+marcel,fils_marcel
+instituteur,fils_marcel
+instituteur,fille_joinville
+instituteur,fils_dede
+instituteur,fils_tathan
