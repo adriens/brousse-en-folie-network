@@ -1,5 +1,5 @@
 source,target
-joinville,mabiche
+joinville,femme_joinville
 tathan,marcel
 marcel,tathan
 dede,dede
@@ -54,3 +54,5 @@ femme_marcel,fils_marcel
 fils_marcel,marcel
 femme_marcel,marcel
 gendarme,marcel
+tathan,chien_marcel
+tathan,lecteur
