@@ -56,3 +56,11 @@ femme_marcel,marcel
 gendarme,marcel
 tathan,chien_marcel
 tathan,lecteur
+fils_marcel,capucine
+capucine,fils_marcel
+capucine,fils_dede
+capucine,fils_marcel
+capucine,fils_tathan
+fils_tathan,fils_dede
+fils_marcel,fils_dede
+fils_dede,fils_marcel
